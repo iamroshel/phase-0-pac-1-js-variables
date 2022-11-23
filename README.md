@@ -25,7 +25,7 @@ some data that we want to store, place it inside the box, and hand the box off
 to the JavaScript engine, which stores it in memory. All done! Our data is
 safely cached until we need to access it again.
 
-![Raiders of the Lost Ark warehouse](https://user-images.githubusercontent.com/17556281/28639657-fea1930a-7216-11e7-8c38-45bc9fab96a7.gif)
+![Raiders of the Lost Ark warehouse. View of a person pushing a package into a big warehouse.](https://user-images.githubusercontent.com/17556281/28639657-fea1930a-7216-11e7-8c38-45bc9fab96a7.gif)
 
 But wait! When we ask for the data back, how will the JavaScript engine know
 _which_ box to retrieve? We need to assign a name to our variable — a
