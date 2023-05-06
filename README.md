@@ -1,6 +1,6 @@
 # JavaScript Variables
 
-## Learning Goals
+## Learning Goals c
 
 - Define what a variable is
 - Variable names in JavaScript
